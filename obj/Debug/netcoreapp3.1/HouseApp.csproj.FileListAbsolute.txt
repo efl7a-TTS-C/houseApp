@@ -1,0 +1,13 @@
+C:\WebDev\TTS_c#\HouseApp\bin\Debug\netcoreapp3.1\HouseApp.exe
+C:\WebDev\TTS_c#\HouseApp\bin\Debug\netcoreapp3.1\HouseApp.deps.json
+C:\WebDev\TTS_c#\HouseApp\bin\Debug\netcoreapp3.1\HouseApp.runtimeconfig.json
+C:\WebDev\TTS_c#\HouseApp\bin\Debug\netcoreapp3.1\HouseApp.runtimeconfig.dev.json
+C:\WebDev\TTS_c#\HouseApp\bin\Debug\netcoreapp3.1\HouseApp.dll
+C:\WebDev\TTS_c#\HouseApp\bin\Debug\netcoreapp3.1\HouseApp.pdb
+C:\WebDev\TTS_c#\HouseApp\obj\Debug\netcoreapp3.1\HouseApp.csprojAssemblyReference.cache
+C:\WebDev\TTS_c#\HouseApp\obj\Debug\netcoreapp3.1\HouseApp.AssemblyInfoInputs.cache
+C:\WebDev\TTS_c#\HouseApp\obj\Debug\netcoreapp3.1\HouseApp.AssemblyInfo.cs
+C:\WebDev\TTS_c#\HouseApp\obj\Debug\netcoreapp3.1\HouseApp.csproj.CoreCompileInputs.cache
+C:\WebDev\TTS_c#\HouseApp\obj\Debug\netcoreapp3.1\HouseApp.dll
+C:\WebDev\TTS_c#\HouseApp\obj\Debug\netcoreapp3.1\HouseApp.pdb
+C:\WebDev\TTS_c#\HouseApp\obj\Debug\netcoreapp3.1\HouseApp.genruntimeconfig.cache
